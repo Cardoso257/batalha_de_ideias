@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725987524932",
+    "project_id": "batalhadeideias",
+    "storage_bucket": "batalhadeideias.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725987524932:android:247c37ad84c932a1925711",
+        "android_client_info": {
+          "package_name": "com.example.batalha_de_ideias"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA212eD2ZvcEd_fQx0ghPa5b8znnr6rBck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
